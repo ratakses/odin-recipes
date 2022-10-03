@@ -1,8 +1,8 @@
 # odin-recipes
-a recipe site for learning purpose
-All recipes from "https://www.allrecipes.com/"
-Build an index page
-Build recipes pages
-Add img, add ingredients and steps lists to recipe pages
-anchor recipe pages to index page
-Don't eat too much!
+<p>a recipe site for learning purpose</p>
+<p>All recipes from "https://www.allrecipes.com/"</p>
+<p>Build an index page</p>
+<p>Build recipes pages</p>
+<p>Add img, add ingredients and steps lists to recipe pages</p>
+<p>anchor recipe pages to index page</p>
+<p>Don't eat too much!</p>
