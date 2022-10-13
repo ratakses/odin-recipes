@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+
+}
+
+h1 {
+    font-size: 80px;
+    color: green;
+    font-family: "courier new", sans-serif;
+
+}
+
+ul {
+    font-size: 50px;
+    color: red;
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: black;
+}
+
